@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 4\\Laboratorio 4\\Laboratorio 45\\Laboratorio 45.csproj": {}
+    "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 4\\Laboratorio 45\\Laboratorio 45.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 4\\Laboratorio 4\\Laboratorio 45\\Laboratorio 45.csproj": {
+    "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 4\\Laboratorio 45\\Laboratorio 45.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 4\\Laboratorio 4\\Laboratorio 45\\Laboratorio 45.csproj",
+        "projectUniqueName": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 4\\Laboratorio 45\\Laboratorio 45.csproj",
         "projectName": "Laboratorio 45",
-        "projectPath": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 4\\Laboratorio 4\\Laboratorio 45\\Laboratorio 45.csproj",
+        "projectPath": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 4\\Laboratorio 45\\Laboratorio 45.csproj",
         "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 4\\Laboratorio 4\\Laboratorio 45\\obj\\",
+        "outputPath": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 4\\Laboratorio 45\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

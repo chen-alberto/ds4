@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 03\\Laboratorio 03\\Laboratorio 31\\Laboratorio 31.csproj": {}
+    "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 3\\Laboratorio 31\\Laboratorio 31.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 03\\Laboratorio 03\\Laboratorio 31\\Laboratorio 31.csproj": {
+    "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 3\\Laboratorio 31\\Laboratorio 31.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 03\\Laboratorio 03\\Laboratorio 31\\Laboratorio 31.csproj",
+        "projectUniqueName": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 3\\Laboratorio 31\\Laboratorio 31.csproj",
         "projectName": "Laboratorio 31",
-        "projectPath": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 03\\Laboratorio 03\\Laboratorio 31\\Laboratorio 31.csproj",
+        "projectPath": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 3\\Laboratorio 31\\Laboratorio 31.csproj",
         "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 03\\Laboratorio 03\\Laboratorio 31\\obj\\",
+        "outputPath": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 3\\Laboratorio 31\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
