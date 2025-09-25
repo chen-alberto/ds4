@@ -1,0 +1,15 @@
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\bin\Debug\net8.0\Laboratorio 72.exe
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\bin\Debug\net8.0\Laboratorio 72.deps.json
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\bin\Debug\net8.0\Laboratorio 72.runtimeconfig.json
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\bin\Debug\net8.0\Laboratorio 72.dll
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\bin\Debug\net8.0\Laboratorio 72.pdb
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\obj\Debug\net8.0\Laboratorio 72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\obj\Debug\net8.0\Laboratorio 72.AssemblyInfoInputs.cache
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\obj\Debug\net8.0\Laboratorio 72.AssemblyInfo.cs
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\obj\Debug\net8.0\Laboratorio 72.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\obj\Debug\net8.0\Laboratorio 72.sourcelink.json
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\obj\Debug\net8.0\Laboratorio 72.dll
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\obj\Debug\net8.0\refint\Laboratorio 72.dll
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\obj\Debug\net8.0\Laboratorio 72.pdb
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\obj\Debug\net8.0\Laboratorio 72.genruntimeconfig.cache
+C:\Users\alber\source\repos\ds4\Laboratorio 7\Laboratorio 7\Laboratorio 72\obj\Debug\net8.0\ref\Laboratorio 72.dll
