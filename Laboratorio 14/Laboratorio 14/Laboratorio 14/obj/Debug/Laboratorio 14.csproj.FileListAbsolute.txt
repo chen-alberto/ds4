@@ -1,0 +1,10 @@
+C:\Users\alber\source\repos\ds4\Laboratorio 14\Laboratorio 14\Laboratorio 14\bin\Debug\Laboratorio 14.exe.config
+C:\Users\alber\source\repos\ds4\Laboratorio 14\Laboratorio 14\Laboratorio 14\bin\Debug\Laboratorio 14.exe
+C:\Users\alber\source\repos\ds4\Laboratorio 14\Laboratorio 14\Laboratorio 14\bin\Debug\Laboratorio 14.pdb
+C:\Users\alber\source\repos\ds4\Laboratorio 14\Laboratorio 14\Laboratorio 14\obj\Debug\Laboratorio 14.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\ds4\Laboratorio 14\Laboratorio 14\Laboratorio 14\obj\Debug\Laboratorio_14.frmProductos.resources
+C:\Users\alber\source\repos\ds4\Laboratorio 14\Laboratorio 14\Laboratorio 14\obj\Debug\Laboratorio_14.Properties.Resources.resources
+C:\Users\alber\source\repos\ds4\Laboratorio 14\Laboratorio 14\Laboratorio 14\obj\Debug\Laboratorio 14.csproj.GenerateResource.cache
+C:\Users\alber\source\repos\ds4\Laboratorio 14\Laboratorio 14\Laboratorio 14\obj\Debug\Laboratorio 14.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\ds4\Laboratorio 14\Laboratorio 14\Laboratorio 14\obj\Debug\Laboratorio 14.exe
+C:\Users\alber\source\repos\ds4\Laboratorio 14\Laboratorio 14\Laboratorio 14\obj\Debug\Laboratorio 14.pdb
