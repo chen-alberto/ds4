@@ -1,0 +1,11 @@
+C:\Users\alber\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\bin\Debug\Laboratorio 13.exe.config
+C:\Users\alber\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\bin\Debug\Laboratorio 13.exe
+C:\Users\alber\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\bin\Debug\Laboratorio 13.pdb
+C:\Users\alber\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio 13.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio_13.Form1.resources
+C:\Users\alber\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio_13.Properties.Resources.resources
+C:\Users\alber\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio 13.csproj.GenerateResource.cache
+C:\Users\alber\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio 13.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio 13.exe
+C:\Users\alber\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio 13.pdb
+C:\Users\alber\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio 13.exe.config
