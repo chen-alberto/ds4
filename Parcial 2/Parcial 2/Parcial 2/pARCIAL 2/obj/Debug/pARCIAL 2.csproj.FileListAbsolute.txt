@@ -1,0 +1,11 @@
+C:\Users\alber\source\repos\ds4\Parcial 2\Parcial 2\Parcial 2\pARCIAL 2\bin\Debug\pARCIAL 2.exe.config
+C:\Users\alber\source\repos\ds4\Parcial 2\Parcial 2\Parcial 2\pARCIAL 2\bin\Debug\pARCIAL 2.exe
+C:\Users\alber\source\repos\ds4\Parcial 2\Parcial 2\Parcial 2\pARCIAL 2\bin\Debug\pARCIAL 2.pdb
+C:\Users\alber\source\repos\ds4\Parcial 2\Parcial 2\Parcial 2\pARCIAL 2\obj\Debug\pARCIAL 2.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\ds4\Parcial 2\Parcial 2\Parcial 2\pARCIAL 2\obj\Debug\pARCIAL_2.Form1.resources
+C:\Users\alber\source\repos\ds4\Parcial 2\Parcial 2\Parcial 2\pARCIAL 2\obj\Debug\pARCIAL_2.Properties.Resources.resources
+C:\Users\alber\source\repos\ds4\Parcial 2\Parcial 2\Parcial 2\pARCIAL 2\obj\Debug\pARCIAL 2.csproj.GenerateResource.cache
+C:\Users\alber\source\repos\ds4\Parcial 2\Parcial 2\Parcial 2\pARCIAL 2\obj\Debug\pARCIAL 2.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\ds4\Parcial 2\Parcial 2\Parcial 2\pARCIAL 2\obj\Debug\pARCIAL 2.exe
+C:\Users\alber\source\repos\ds4\Parcial 2\Parcial 2\Parcial 2\pARCIAL 2\obj\Debug\pARCIAL 2.pdb
+C:\Users\alber\source\repos\ds4\Parcial 2\Parcial 2\Parcial 2\pARCIAL 2\obj\Debug\pARCIAL 2.exe.config
